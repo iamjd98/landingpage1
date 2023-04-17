@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lnpmandingpage1/static/css/main.7d5edc04.css",
+    "main.js": "/lnpmandingpage1/static/js/main.4806d01f.js",
+    "static/media/feature1.jpg": "/lnpmandingpage1/static/media/feature1.47721932a9a46f3eff7d.jpg",
+    "static/media/hero-photo.jpg": "/lnpmandingpage1/static/media/hero-photo.a3ea4a6ccb95af44bd8e.jpg",
+    "static/media/whyphoto.jpg": "/lnpmandingpage1/static/media/whyphoto.9aa8bd90d58fe689fa41.jpg",
+    "static/media/profile.jpg": "/lnpmandingpage1/static/media/profile.a6fc5b9edee3723cf676.jpg",
+    "index.html": "/lnpmandingpage1/index.html",
+    "main.7d5edc04.css.map": "/lnpmandingpage1/static/css/main.7d5edc04.css.map",
+    "main.4806d01f.js.map": "/lnpmandingpage1/static/js/main.4806d01f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d5edc04.css",
+    "static/js/main.4806d01f.js"
+  ]
+}
